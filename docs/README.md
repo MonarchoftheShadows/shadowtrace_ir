@@ -31,7 +31,7 @@
 1. **Clone or download the project:**
 ```bash
    git clone https://github.com/MonarchoftheShadows/ShadowTrace.git
-   cd shadowtrace_ir/
+   cd shadowtrace/
 ```
 
 2. **Install dependencies:**
@@ -259,5 +259,6 @@ For questions, issues, or feature requests:
 **ShadowTrace-IR - Empowering Defensive Security Through Transparency**
 
 *Stay vigilant. Stay defensive. Stay secure.*
+
 
 
