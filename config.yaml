@@ -1,0 +1,14 @@
+# file: config.yaml
+# ShadowTrace-IR Configuration File
+# API keys should NEVER be committed to version control
+
+api_keys:
+  virustotal: ""
+  hybridanalysis: ""
+  alienvault_otx: ""
+
+settings:
+  max_string_length: 10000
+  min_string_length: 4
+  default_report_format: "json"
+  yara_rules_directory: "./yara_rules"
