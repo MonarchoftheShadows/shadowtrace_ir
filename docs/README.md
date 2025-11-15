@@ -29,7 +29,8 @@
 ### Installation
 
 1. **Clone or download the project:**
-```git clone https://github.com/MonarchoftheShadows/ShadowTrace.git
+```bash
+   git clone https://github.com/MonarchoftheShadows/ShadowTrace.git
    cd shadowtrace_ir/
 ```
 
@@ -37,10 +38,10 @@
 ```bash
    pip install -r requirements.txt
    
- #Alternative: Install in virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
+   #Alternative: Install in virtual environment (recommended)
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   pip install -r requirements.txt
    
 ```
 
@@ -258,4 +259,5 @@ For questions, issues, or feature requests:
 **ShadowTrace-IR - Empowering Defensive Security Through Transparency**
 
 *Stay vigilant. Stay defensive. Stay secure.*
+
 
