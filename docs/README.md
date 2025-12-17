@@ -3,7 +3,7 @@
 **Version:** 1.0.0  
 **Purpose:** Legitimate defensive cybersecurity, malware triage, and post-incident analysis
 
-![Python](https://img.shields.io/badge/Python-3.6%2B-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Python](https://img.shields.io/badge/Python-3.6%2B-green) 
 ![ShadowTrace](https://github.com/user-attachments/assets/598dcb7f-e927-4c5f-ade0-66d133d6ee80)
 
 ---
@@ -232,7 +232,9 @@ This tool is designed for the defensive security community. Contributions that e
 
 ## 📄 License
 
-This tool is provided for legitimate cybersecurity defense and incident response purposes only.
+This tool is released under the GNU General Public License (GPL).
+
+You are free to use, modify, and distribute this software Derivative works must remain open-source under the GPL There is no warranty of any kind
 
 ---
 
@@ -261,6 +263,7 @@ For questions, issues, or feature requests:
 **ShadowTrace-IR - Empowering Defensive Security Through Transparency**
 
 *Stay vigilant. Stay defensive. Stay secure.*
+
 
 
 
